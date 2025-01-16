@@ -12,4 +12,9 @@ Repositorio criado por:
 
 No âmbito da UC Algoritmos para Análise de Sequências Biológicas do mestrado de Bioinformática, no ano letivo 2024-2025
 
-Neste portofólio foram implementados alguns dos algoritmos abordados nas aulas teóricas, nomeadamente: **Análise de sequências**, **Alinhamentos locais e globais**, **Blast**, **Motifs**, **Árvores filogenéticas**.
+Neste portofólio foram implementados alguns dos algoritmos abordados nas aulas teóricas, nomeadamente: 
+*    *Análise de sequências*
+*    *Alinhamentos locais e globais*
+*    *Blast*
+*    *Motifs*
+*    *Árvores filogenéticas*
