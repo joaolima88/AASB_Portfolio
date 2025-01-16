@@ -4,13 +4,12 @@ Grupo 3
 
 Repositorio criado por:
 
-  André Dias Ferreira - PG55127
-  João Manuel Barbosa Lima - PG55701
+*  André Dias Ferreira - PG55127
+*  André Sá Gomes - A97401
+*  Inês Guedes Lameira - PG40082
+*  João Manuel Barbosa Lima - PG55701
+*  Romeu Alexandre Ribeiro Fernandes - PG45861
 
-Algortimos feitos:
+No âmbito da UC Algoritmos para Análise de Sequências Biológicas do mestrado de Bioinformática, no ano letivo 2024-2025
 
-  Sequências
-  Alinhamentos locais e globais
-  Blast
-  Motifs
-  Árvores filogenéticas
+Neste portofólio foram implementados alguns dos algoritmos abordados nas aulas teóricas, nomeadamente: **Análise de sequências**, **Alinhamentos locais e globais**, **Blast**, **Motifs**, **Árvores filogenéticas**.
